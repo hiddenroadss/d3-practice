@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Burj Khalifa",
+    "height": 828,
+    "year": 2010
+  },
+  {
+    "name": "Merdeka 118",
+    "height": 678,
+    "year": 2022
+  },
+  {
+    "name": "Shanghai Tower",
+    "height": 632,
+    "year": 2015
+  },
+  {
+    "name": "Abraj Al-Bait Clock Tower",
+    "height": 601,
+    "year": 2012
+  },
+  {
+    "name": "Ping An International Finance Centre",
+    "height": 559,
+    "year": 2017
+  }
+]
